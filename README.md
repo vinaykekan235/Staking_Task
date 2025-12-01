@@ -83,12 +83,8 @@ REPORT_GAS=true
 # Run all tests
 npx hardhat test
 
-## 📦 Deployment
-
 ```
-
-### Testnet Deployment
-
+## 📦 Deployment
 ```bash
 # Deploy to Sepolia
 npx hardhat run script/deploy.js --network sepolia
